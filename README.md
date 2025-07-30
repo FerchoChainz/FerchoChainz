@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Lazaro Estrada (a.k.a. FerchoChainz)
+# 👋 Hi there! I'm Lazaro Estrada (FerchoChainz)
 
 🚀 Aspiring Full-Stack Web Developer  
 💻 Currently building university and personal projects  
