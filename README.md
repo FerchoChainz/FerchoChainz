@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Lazaro Estrada (FerchoChainz)
+# 👋 Hi there! I'm Lazaro Estrada (Bobby Drake, Iceman)
 
 🚀 Aspiring Full-Stack Web Developer  
 💻 Currently building university and personal projects  
